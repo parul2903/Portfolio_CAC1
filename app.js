@@ -34,6 +34,17 @@ document.getElementById('githubButton4').addEventListener('click', function() {
     window.open('https://github.com/parul2903/emotions_classifier_bert', '_blank');
 });
 
-document.getElementById('github').addEventListener('click', function() {
+document.getElementById('github1').addEventListener('click', function() {
+    window.open('https://github.com/parul2903', '_blank');
+});
+document.getElementById('github2').addEventListener('click', function() {
+    window.open('https://github.com/parul2903', '_blank');
+});
+
+document.getElementById('github3').addEventListener('click', function() {
+    window.open('https://github.com/parul2903', '_blank');
+});
+
+document.getElementById('github4').addEventListener('click', function() {
     window.open('https://github.com/parul2903', '_blank');
 });
